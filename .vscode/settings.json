@@ -1,0 +1,6 @@
+{
+    "idf.flashType": "JTAG",
+    "files.autoSave": "onWindowChange",
+    "editor.experimental.asyncTokenizationVerification": true,
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.referenceSearch.trigger"
+}
